@@ -1,0 +1,5 @@
+baseURL = "https://example.org/"
+languageCode = "it-it"
+title = "dettagli. experience pret-a-porter"
+# Disabilitiamo i tipi di pagina che non servono
+disableKinds = ["taxonomy", "term", "section", "RSS", "sitemap", "robotsTXT"]
